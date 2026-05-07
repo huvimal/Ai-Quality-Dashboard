@@ -1,0 +1,12 @@
+gradio
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-huggingface
+langsmith
+python-dotenv
+chromadb
+rank-bm25
+sentence-transformers
+torch
