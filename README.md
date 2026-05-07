@@ -1,4 +1,4 @@
-🚀 AI Quality Dashboard
+🚀 AI Quality Dashboard  https://huvimal-ai-quality-dashboard.hf.space
 
 An advanced RAG Evaluation & Monitoring Dashboard designed to measure, trace, and analyze the quality of AI-generated responses using LLM-as-a-Judge evaluation, hybrid retrieval, and observability tools.
 
